@@ -1,6 +1,5 @@
 /*
 * Name: Omer Kaplan
-* ID: 208278036
 * Goal: This progrem gets hours number and minutes number,
 sums up the min. no. then prints how many minutes there are.
 */

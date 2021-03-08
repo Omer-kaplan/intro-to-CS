@@ -1,6 +1,5 @@
 /*
 Name: Omer Kaplan
-ID: 208278036
 Goal: This program gets a balls radius length and prints the balls volume.
 */
 

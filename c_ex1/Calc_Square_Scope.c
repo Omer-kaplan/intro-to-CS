@@ -1,7 +1,6 @@
 /*
 Name: Omer Kaplan
-ID: 208278036
-Goal: This program gets width and height and print its squares scope
+Goal: This program gets width and height --> print its squares scope
 */
 
 #include <stdio.h>

@@ -1,6 +1,5 @@
 /*
 Name: Omer Kaplan
-ID: 208278036
 Goal: This program gets speed in km/h and print its miles/h
 */
 

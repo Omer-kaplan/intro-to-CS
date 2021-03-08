@@ -1,6 +1,5 @@
 /*
 Name: Omer Kaplan
-ID: 208278036
 Goal: This program gets a number (F. degrees) and output its transpormation 
 to C. degrees.
 */
