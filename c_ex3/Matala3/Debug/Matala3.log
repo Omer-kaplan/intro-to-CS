@@ -1,0 +1,25 @@
+﻿  Util.c
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(42,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(43,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(45,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(59,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(60,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(62,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(67,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(68,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(70,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(82,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(83,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(85,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(31,24): warning C4101: 'temp_magen': unreferenced local variable
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(114,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(127,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(140,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(154,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(168,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(181,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(194,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omer kaplan\Source\Repos\Matala3\Matala3\Util.c(207,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mainTrain.c
+  Generating Code...
+  Matala3.vcxproj -> C:\Users\omer kaplan\Source\Repos\Matala3\Debug\Matala3.exe
