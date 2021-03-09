@@ -1,8 +1,0 @@
-﻿  Q2.c
-  Q4.c
-C:\Users\omer kaplan\Source\Repos\תרגולים ועוד\מבחנים קודמים\מבחן4\assignment (4)\Q4.c(19,111): warning C4020: 'realloc': too many actual parameters
-C:\Users\omer kaplan\Source\Repos\תרגולים ועוד\מבחנים קודמים\מבחן4\assignment (4)\Q4.c(36,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\omer kaplan\Source\Repos\תרגולים ועוד\מבחנים קודמים\מבחן4\assignment (4)\Q4.c(58,67): warning C4020: 'realloc': too many actual parameters
-  Generating Code...
-C:\Users\omer kaplan\Source\Repos\תרגולים ועוד\מבחנים קודמים\מבחן4\assignment (4)\Q4.c(32): warning C4715: 'addAppartment': not all control paths return a value
-  Ex4.vcxproj -> C:\Users\omer kaplan\Source\Repos\תרגולים ועוד\מבחנים קודמים\מבחן4\Ex4\Debug\Ex4.exe
