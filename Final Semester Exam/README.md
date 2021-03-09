@@ -3,7 +3,7 @@ Hello There!
 This was my first C exam!
 Got a 100 in the final grade 😉
 
-The ques. were:
+The code I wrote:
 - Function that returns the maximum Sum of Sub Arr of the givven Arr.
 - Function which returns a clear word with correct blanks number of the givven word.
 - Recursion which checks wether is given sum is in sub Arr of given Arr.
