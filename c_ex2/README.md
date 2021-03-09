@@ -1,2 +1,3 @@
 # intro-to-CS
-All my intro to CS projects written in C
+
+This is my second assignment to submit in C
