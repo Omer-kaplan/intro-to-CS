@@ -16,8 +16,8 @@ In the next Repo you can find about 14 projects I made for intro to CS written i
 ✅ Data storing in arrays, mat and similars \
 ✅ Usage of different Functions, Recursions, Structures, Pointers, Memory Allocation\
 
-
-/ ### Summary
+/
+### Summary
 Long story short, the work state of mind is to use the Main.c file for Testing the other c files functions,
 and to use header.h file to include libraries, declare functions and define vars value.
 
