@@ -1,4 +1,4 @@
-# intro-to-CS
+# intro-to-cs
 In the next Repo you can find about 14 projects I made for intro to CS written in C due to Nov.2020 - Mar.2021
 
 ## Road Map
